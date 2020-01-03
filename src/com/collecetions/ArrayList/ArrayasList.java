@@ -7,6 +7,7 @@ import java.util.List;
 
 public class ArrayasList {
 
+	//main method
 	public static void main(String[] args) {
 		ArrayList<Integer> al=new ArrayList<>();
 		
